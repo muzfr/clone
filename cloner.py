@@ -29,7 +29,7 @@ def splash():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢔⢑⠋⠁⠀⠀⠀⢹⠉⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 """
     print(center(art))
-    print(center(Fore.LIGHTBLACK_EX + "⚠ @imneverenough ⚠\n"))
+    print(center(Fore.LIGHTBLACK_EX + "⚠ @decmber31 ⚠\n"))
 
 def show_status():
     terminal_width = shutil.get_terminal_size().columns
@@ -47,7 +47,7 @@ def show_status():
         green + "| Cloning Categories: ON ✅            |",
         cyan + "+--------------------------------------+",
         white + "|         Developed by muz             |",
-        gray  + "|      Discord: @imneverenough         |",
+        gray  + "|      Discord: @decmber31             |",
         gray  + "|      YouTube: @reapproved            |",
         cyan + "+--------------------------------------+"
     ]
