@@ -37,7 +37,7 @@ Input the source and target server IDs when prompted.
 🔐 Reminder: You must have the correct permissions in both servers. Do not use on servers you don't own or moderate.
 
 #🧑‍💻 Developer
-Discord: @imneverenough
+Discord: @decmber31
 
 YouTube: @reapproved
 
