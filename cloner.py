@@ -47,7 +47,7 @@ def show_status():
         green + "| Cloning Categories: ON ✅            |",
         cyan + "+--------------------------------------+",
         white + "|         Developed by muz             |",
-        gray  + "|      Discord: @decmber31             |",
+        gray  + "|      Discord: @imneverenough             |",
         gray  + "|      YouTube: @reapproved            |",
         cyan + "+--------------------------------------+"
     ]
